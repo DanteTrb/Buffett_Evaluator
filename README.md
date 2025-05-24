@@ -1,9 +1,5 @@
-# Buffett_Evaluator
-ML + SHAP + Streamlit: A Buffett-style stock evaluator built for explainable financial decisions.
-
 # 🧠 Buffett Evaluator
-
-Una web app interattiva costruita con Streamlit che, grazie a un modello di machine learning spiegabile con SHAP, valuta se una stock rispecchia i criteri di investimento dello stile Warren Buffett.
+ML + SHAP + Streamlit: A Buffett-style stock evaluator built for explainable financial decisions.
 
 ---
 
