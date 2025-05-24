@@ -17,15 +17,9 @@ Dato un set di **fondamentali finanziari**, la app:
 
 ## 🌐 Demo online
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/your_username/Buffett_Evaluator/main/app.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://buffett-evaluator.streamlit.app)
 
-> ⚠️ Sostituisci `your_username` con il tuo GitHub user una volta deployata.
-
----
-
-## 📸 Screenshot
-
-![screenshot](https://your-screenshot-url.com/screenshot.png)
+> ⚠️ Hosted on Streamlit Community Cloud.
 
 ---
 
