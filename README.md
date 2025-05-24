@@ -1,5 +1,5 @@
-# 🧠 Buffett Evaluator
-ML + SHAP + Streamlit: A Buffett-style stock evaluator built for explainable financial decisions.
+# Buffett Evaluator
+🧠 AI-powered stock evaluator: discover which companies match Buffett's investment logic, explained by SHAP.
 
 ---
 
